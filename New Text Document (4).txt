@@ -1,18 +1,4 @@
-CREATE INSPECTION ORDER 3
-CHANGE STATUS 3
-cd
 
-
-
-Rpo doc page API--> http://CTLRLSADC.GGHOJAI.com:1132/DummyGST/WS/UMDS%20Pvt.Ltd./Page/RPODocPage
-
-RPO list page API--> http://CTLRLSADC.GGHOJAI.com:1132/DummyGST/WS/UMDS%20Pvt.Ltd./Page/rpo////////////////////////////////////////////////////////
-
-RPO ChangeStatusActButtonAPI--> http://CTLRLSADC.GGHOJAI.com:1132/DummyGST/WS/UMDS%20Pvt.Ltd./Codeunit/CahngeActionButtonApi
-
-RPO CreateInspectDataSheetApi--> http://CTLRLSADC.GGHOJAI.com:1132/DummyGST/WS/UMDS%20Pvt.Ltd./Codeunit/CreateInspDataSheetActButonAPI
-
-C:\Users\vipul\Documents\GitHub\Production-Golcha
 source no 
 aler type
 value
@@ -21,7 +7,8 @@ dialogbog
 spinner
 alet typr _sournce no, (no)
 value     _________
-apply     
+apply 
+hellow
 
 
 Emulator:
