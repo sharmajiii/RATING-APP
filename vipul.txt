@@ -15,4 +15,6 @@ Emulator:
 cd C:\Users\vipul\AppData\Local\Android\Sdk\emulator
 emulator -list-avds
 emulator -avd New_Device_API_23   ##(emulator -avd device_name)
+hellow my name is vipul sharma
+
 
